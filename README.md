@@ -356,17 +356,3 @@ So both provide an additional layer of security and mitigate DoS attacks. They a
 `tls-crypt` is an OpenVPN 2.4 feature that provides encryption in addition to authentication (unlike `tls-auth`). It is more privacy-friendly.
 
 The script supports both and uses `tls-crypt` by default.
-
-## Say thanks
-
-You can [say thanks](https://saythanks.io/to/mahyarx) if you want!
-
-## Credits & Licence
-
-Many thanks to the [contributors](https://github.com/mahyarx/OpenVPN-install/graphs/contributors) and Nyr's original work.
-
-This project is under the [MIT Licence](https://raw.githubusercontent.com/mahyarx/openvpn-install/master/LICENSE)
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=mahyarx/openvpn-install&type=Date)](https://star-history.com/#mahyarx/openvpn-install&Date)
