@@ -160,16 +160,6 @@ Since 2016, the two scripts have diverged and are not alike anymore, especially 
 
 More Q&A in [FAQ.md](FAQ.md).
 
-**Q:** Which provider do you recommend?
-
-**A:** I recommend these:
-
-- [Vultr](https://www.vultr.com/?ref=8948982-8H): Worldwide locations, IPv6 support, starting at \$5/month
-- [Hetzner](https://hetzner.cloud/?ref=ywtlvZsjgeDq): Germany, Finland and USA. IPv6, 20 TB of traffic, starting at 4.5€/month
-- [Digital Ocean](https://m.do.co/c/ed0ba143fe53): Worldwide locations, IPv6 support, starting at \$4/month
-
----
-
 **Q:** Which OpenVPN client do you recommend?
 
 **A:** If possible, an official OpenVPN 2.4 client.
